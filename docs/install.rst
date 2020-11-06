@@ -7,6 +7,6 @@ Install the latest stable release using::
 
 Alternatively, you can install the latest developer version from github::
 
-    github clone https://github.com/dkirkby/speclite.git
+    git clone https://github.com/dkirkby/speclite.git
     cd speclite
     python setup.py install
